@@ -88,9 +88,9 @@ tags:
 class GoodDog
 end
 
-sparky = GoodDog.new
+sparky = GoodDog.new  
 ```
-
+  
 ---
 
 2.
