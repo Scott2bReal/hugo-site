@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on Scott Hoecker</title>
+    <link>localhost/tags/untagged/</link>
+    <description>Recent content in untagged on Scott Hoecker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 27 Dec 2021 17:26:03 -0600</lastBuildDate><atom:link href="localhost/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RB129 Written Assessment Practice Questions</title>
+      <link>localhost/posts/rb129-written-assessment-study-questions/</link>
+      <pubDate>Mon, 27 Dec 2021 17:26:03 -0600</pubDate>
+      
+      <guid>localhost/posts/rb129-written-assessment-study-questions/</guid>
+      <description>Written Exam Practice Questions  What is OOP? List all the benefits of OOP? What is encapsulation? How is this achieved in Ruby? What is polymorphism? What are the different ways to apply polymorphism in Ruby? What is duck typing? What is class inheritance? How does this work in Ruby? What is an object? What is a Class? What is a Module? What are the differences between classes and modules? How do you decide which to use?</description>
+    </item>
+    
+  </channel>
+</rss>
