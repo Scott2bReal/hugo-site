@@ -18,7 +18,7 @@ menu:
 params:
   author: "Scott Hoecker"
   email: hoeckers@gmail.com # used for microformats
-  avatar: "/images/scott_in_the_sun.JPG" # used for microformats
+  avatar: "$HOME/hugo-site/images/scott_in_the_sun.JPG" # used for microformats
   description: ""
   # Uncomment if you need this
   # images:
