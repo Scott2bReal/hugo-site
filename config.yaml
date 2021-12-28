@@ -3,7 +3,7 @@ baseUrl: ""
 title: "scott-hoecker.dev"
 theme: "anubis"
 paginate: 10
-disqusShortname: "yourdiscussshortname"
+disqusShortname: "www.scott-hoecker.dev"
 googleAnalytics: "G-12345"
 enableRobotsTXT: true
 
