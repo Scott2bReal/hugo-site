@@ -30,8 +30,8 @@ params:
   dateFormat: "2006-01-02"
   paginationSinglePost: true
   style: dark-without-switcher
-  readMore: false
-  disableSummary: false
+  readMore: true
+  disableSummary: true
   # utteranc.es support
   utterancesRepo: ""  # mandatory
   utterancesTheme: "" # optional
