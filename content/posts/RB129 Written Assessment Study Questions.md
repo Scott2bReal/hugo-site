@@ -9,6 +9,8 @@ tags:
   - launch_school
 ---
 
+You can download this markdown file [here](https://github.com/Scott2bReal/RB129/blob/main/RB129_study_questions_blank.md) :)
+
 
 # Written Exam Practice Questions
 ---
