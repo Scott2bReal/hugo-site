@@ -9,7 +9,7 @@ tags:
   - launch_school
 ---
 
-Credit to fellow Launch Schooler [Mitrichius](https://github.com/mitrichius)
+Credit to fellow Launch Schooler [Mitrichius](https://github.com/mitrichius)  
 Hosting here for my own study purposes
 
 You can download this markdown file [here](https://github.com/Scott2bReal/RB129/blob/main/RB129_study_questions_blank.md) :)
