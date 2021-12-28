@@ -50,10 +50,10 @@ params:
     id: "thread-id" # optional
     avatar: true # optional
     avatar-bg: "#f0f0f0" # optional
-  webmentions:
-    url: https://yourdomain.com/webemntions/receive
-    login: hugo-theme-anubis
-    pingback: true
+  # webmentions:
+  #   url: https://yourdomain.com/webemntions/receive
+  #   login: hugo-theme-anubis
+  #   pingback: true
   social:
   - id: github
     name: Scott2bReal
