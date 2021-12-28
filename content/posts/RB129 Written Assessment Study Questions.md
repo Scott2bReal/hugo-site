@@ -5,7 +5,7 @@ draft: false
 toc: false
 images:
 tags:
-  - study
+  - study, launch_school
 ---
 
 
