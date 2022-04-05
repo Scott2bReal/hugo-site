@@ -2,6 +2,10 @@
 title: "RB130 Practice Questions"
 date: 2022-04-05T12:14:20-05:00
 draft: false
+toc: false
+tags:
+  - study
+  - launch_school
 ---
 
 # RB139 Assessment Practice Questions
@@ -9,9 +13,6 @@ draft: false
 ## Blocks
 
 1. What are closures?
-
-Closures in Ruby are chunks of code which can be passed as objects between
-methods and executed.
 
 2. What are blocks?
 
@@ -23,7 +24,7 @@ methods and executed.
 
 6. How do we write methods that take a block? What errors and pitfalls can arise
    from this and how do we avoid them?
-    
+
 7. How do we utilize the return value of a block? How can methods that take a
    block pass pieces of data to that block?
 
